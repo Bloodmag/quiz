@@ -1,0 +1,16 @@
+C:\Users\blood\source\repos\quiz\quiz\bin\Debug\quiz.exe.config
+C:\Users\blood\source\repos\quiz\quiz\bin\Debug\quiz.exe
+C:\Users\blood\source\repos\quiz\quiz\bin\Debug\quiz.pdb
+C:\Users\blood\source\repos\quiz\quiz\obj\Debug\quiz.csprojAssemblyReference.cache
+C:\Users\blood\source\repos\quiz\quiz\obj\Debug\quiz.Properties.Resources.resources
+C:\Users\blood\source\repos\quiz\quiz\obj\Debug\quiz.csproj.GenerateResource.cache
+C:\Users\blood\source\repos\quiz\quiz\obj\Debug\quiz.csproj.CoreCompileInputs.cache
+C:\Users\blood\source\repos\quiz\quiz\obj\Debug\quiz.exe
+C:\Users\blood\source\repos\quiz\quiz\obj\Debug\quiz.pdb
+C:\Users\blood\source\repos\quiz\quiz\obj\Debug\quiz.Form1.resources
+C:\Users\blood\source\repos\quiz\quiz\obj\Debug\quiz.Edit.resources
+C:\Users\blood\source\repos\quiz\quiz\obj\Debug\quiz.Learn.resources
+C:\Users\blood\source\repos\quiz\quiz\obj\Debug\quiz.InputBox.resources
+C:\Users\blood\source\repos\quiz\quiz\obj\Debug\quiz.EditTool.resources
+C:\Users\blood\source\repos\quiz\quiz\obj\Debug\quiz.Test.resources
+C:\Users\blood\source\repos\quiz\quiz\obj\Debug\quiz.Results.resources

@@ -1,0 +1,13 @@
+C:\Users\blood\source\repos\quiz\quiz\bin\Release\quiz.exe.config
+C:\Users\blood\source\repos\quiz\quiz\bin\Release\quiz.exe
+C:\Users\blood\source\repos\quiz\quiz\bin\Release\quiz.pdb
+C:\Users\blood\source\repos\quiz\quiz\obj\Release\quiz.Edit.resources
+C:\Users\blood\source\repos\quiz\quiz\obj\Release\quiz.EditTool.resources
+C:\Users\blood\source\repos\quiz\quiz\obj\Release\quiz.Form1.resources
+C:\Users\blood\source\repos\quiz\quiz\obj\Release\quiz.InputBox.resources
+C:\Users\blood\source\repos\quiz\quiz\obj\Release\quiz.Learn.resources
+C:\Users\blood\source\repos\quiz\quiz\obj\Release\quiz.Properties.Resources.resources
+C:\Users\blood\source\repos\quiz\quiz\obj\Release\quiz.csproj.GenerateResource.cache
+C:\Users\blood\source\repos\quiz\quiz\obj\Release\quiz.csproj.CoreCompileInputs.cache
+C:\Users\blood\source\repos\quiz\quiz\obj\Release\quiz.exe
+C:\Users\blood\source\repos\quiz\quiz\obj\Release\quiz.pdb
